@@ -1,0 +1,12 @@
+
+i have used magento 2.3.4 version
+
+
+please add that this theme hear 
+
+\app\design\frontend
+
+i have add db so please import that db in your php my admin 
+
+
+Db\
